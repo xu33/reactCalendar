@@ -1,2 +1,2 @@
 # reactCalendar
-写一些常用组件熟悉React
+TOS风格的REACT日历组件
